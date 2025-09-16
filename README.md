@@ -11,7 +11,7 @@ This project is a smart AI-driven web application that helps users discover clot
 - Real-world use cases in e-commerce or digital wardrobes
 
 ## Dataset
-- Fashion Product Images Dataset by paramaggarwal on Kaggle
+- Fashion Product Images Dataset by paramaggarwal on Kaggle: [(https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset?resource=download)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset?resource=download)
 - 44,000 images of tops, pants, dresses, shoes, bags, etc.
 - Only images used for visual similarity
 - Preprocessed & subset of 500 images used for feature extraction
