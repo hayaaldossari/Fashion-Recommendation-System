@@ -34,22 +34,6 @@ This project is a smart AI-driven web application that helps users discover clot
 4. Similarity search in dataset
 5. Top matches returned
 
-## Evaluation Metrics
-- Cosine similarity score [-1,1]
-- Top-N accuracy (Precision@N)
-- Mean Average Precision (MAP)
-- F1 Score (adapted for retrieval)
-
-## Challenges & Solutions
-- VAE training instability → saved encoder weights
-- Evaluating quality without ground truth → visual validation
-- Integrating two models → dropdown selector in frontend
-
-## Conclusion
-A functional AI-powered fashion recommendation web application integrating ResNet50 and VAE for flexible and intelligent recommendations.
-
-## References
-1. [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 2. [Auto-encoding variational Bayes](https://arxiv.org/abs/1312.6114)
 3. [Fashion Product Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
 4. [TensorFlow](https://www.tensorflow.org/)
